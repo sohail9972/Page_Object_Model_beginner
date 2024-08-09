@@ -1,0 +1,18 @@
+{
+  "firstName": "John",
+  "lastName": "Kennedy",
+  "address": [
+    {
+      "street": "abc",
+      "city": "Hyderabad",
+      "state": "TL",
+      "id": "12"
+    },
+    {
+      "street": "xyz",
+      "city": "Chennai",
+      "state": "TN",
+      "id": "15"
+    }
+  ]
+}
